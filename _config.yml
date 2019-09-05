@@ -1,19 +1,19 @@
-# Site settings
-title: Mauricio Urraco1
-description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# Site settings1
+title: Mauricio Urraco11
+description: Jekyll Theme Minimal Resume1
+# baseurl: "" # the subpath of your site, e.g. /blog1
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br1
 
-# User settings
-username: Mauricio Urraco
-user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT.. I'm one of the two guys behind all the JS related stuff. Visit my blog here":" <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
-
-# Google-analytics
+# User settings1
+username: Mauricio Urraco1
+user_description: 1
+user_title: Software Engineer1
+email: mauriurraco@gmail.com1
+# twitter_username: lorem_ipsum1
+# github_username:  lorem_ipsum1
+# gplus_username:  lorem_ipsum1
+1
+# Google-analytics1
 google-analytics:
   id: ""
 
